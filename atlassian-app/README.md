@@ -42,7 +42,7 @@ This application uses localhost: 9000 as the REST server, so to run the current 
 
 ```
 ### Basic env configuration
-Recommended Node version - `v14.0.0`
+Recommended Node version - `v14.0.0`<br>
 Recommended Yarn version - `1.22.0`
 
 ### `What issues should you keep in mind when editing this project:`
