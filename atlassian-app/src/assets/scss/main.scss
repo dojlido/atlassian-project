@@ -1,0 +1,24 @@
+@import "functions";
+@import "variables";
+
+html {
+  font-size: $baseFontSize;
+
+  body {
+    font-family: sans-serif;
+    color: $baseFontColor;
+    background: $baseBackgroundColor;
+    padding-top: 70px;
+    margin: 0;
+
+    section {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+  }
+}
+
+@import "../../shared/components/ProductColumn/ProductColumn";
+@import "../../shared/components/SearchBar/SearchBar";
+@import "../../shared/components/ErrorBoundry/ErrorBoundry";

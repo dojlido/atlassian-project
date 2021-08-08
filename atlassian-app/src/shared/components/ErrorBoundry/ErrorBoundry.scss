@@ -1,0 +1,25 @@
+.error-boundry {
+  border: 1px solid gray;
+  padding: 10px;
+  h1 {
+    font-size: pxToRem(13px);
+    line-height: pxToRem(22px);
+    span {
+      text-transform: uppercase;
+      font-weight: bold;
+    }
+  }
+  h2 {
+    font-size: pxToRem(13px);
+  }
+  p {
+    line-height: pxToRem(18px);
+    font-size: pxToRem(13px);
+    &:first-of-type {
+      margin-top: -10px;
+    }
+    span {
+      font-style: italic;
+    }
+  }
+}

@@ -1,0 +1,22 @@
+const BASE_URL = "http://localhost:9000/";
+
+const JIRA_PRODUCT = "jira";
+const CONFLUENCE_PRODUCT = "confluence";
+const BAMBOO_PRODUCT = "bamboo";
+const FECRU_PRODUCT = "fecru";
+
+const ALL_ATLAS_PRODUCTS = [
+  JIRA_PRODUCT,
+  CONFLUENCE_PRODUCT,
+  BAMBOO_PRODUCT,
+  FECRU_PRODUCT,
+];
+
+export {
+  BASE_URL,
+  JIRA_PRODUCT,
+  CONFLUENCE_PRODUCT,
+  BAMBOO_PRODUCT,
+  FECRU_PRODUCT,
+  ALL_ATLAS_PRODUCTS,
+};

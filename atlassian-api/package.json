@@ -1,0 +1,24 @@
+{
+  "name": "@atlassian/frontend-coding-test",
+  "version": "1.0.0",
+  "private": "true",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "build": "webpack",
+    "watch": "webpack --watch"
+  },
+  "author": "Atlassian Corporation Plc",
+  "dependencies": {
+    "express": "4.17.1",
+    "faker": "5.1.0"
+  },
+  "devDependencies": {
+    "@babel/core": "7.12.10",
+    "@babel/preset-env": "7.12.11",
+    "babel-loader": "8.2.2",
+    "file-loader": "6.2.0",
+    "webpack": "5.10.3",
+    "webpack-cli": "4.2.0"
+  }
+}
