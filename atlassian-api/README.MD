@@ -1,10 +1,5 @@
 # Short introduction to Atlassian API 
 
-Welcome to our coding test!
-
-The purpose of this test is to help us see how you solve problems in code,
-and to learn about the decision and choices you make when coding.
-
 API give possibility to create product sales dashboard application, it's for training purpose.
 Thanks to that you can create something similar to Jira by your own !
 
