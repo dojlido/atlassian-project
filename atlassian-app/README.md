@@ -1,7 +1,7 @@
 # Atlassian application 
 
-By carrying out this task, I wanted to present the technologies that I consider valuable and used in my daily work. There are some areas that I would like to refactor, but the task was estimated for several hours. In this project I used `VanillaJS, ReactJS, React HOOKS, TypeScript, React Testing Library, SCSS, HTML5`.
-It would be worth to adding `GraphQL` (data storage objects are complex) but in this case I would need an additional estimation of "premiere" time :).
+By carrying out this task, I wanted to present the technologies that I consider valuable and used in my daily work. There are some areas that I would like to refactor. In this project I used `VanillaJS, ReactJS, React HOOKS, TypeScript, React Testing Library, SCSS, HTML5`.
+It would be worth to adding `GraphQL` (data storage objects are complex).
 
 When designing the application, I followed my favorite principles, "good programming" practices: `KISS, DRY, SingleResponsibility, transparency of functions, control of side effects, functional approach`.
 
