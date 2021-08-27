@@ -39,3 +39,5 @@ If you run the `start` script and open your browser, you will see a mockup for w
 
 We can use this application as standalone REST server (as entry point in your React application You can use http://localhost:9000)
 
+## Please notice
+This API was not created by me (third party app).
